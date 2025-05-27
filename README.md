@@ -1,23 +1,22 @@
 ## General Info
 This is a simple Responsive Website made using HTML & CSS
 
-# Project Title
+# Responsive Website
 
 ## 📝 Description
 
-A brief overview of what the project does and its purpose.
+This is a simple Responsive Website made using HTML & CSS
 
 ## 🚀 Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Fully Responsive Design
+- Modern UI & Clean Layout
+- Optimized Performance
 
 ## 🛠️ Technologies Used
 
-- Technology 1
-- Technology 2
-- Technology 3
+- HTML
+- CSS
 
 ## 📦 Installation
 
