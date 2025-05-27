@@ -1,6 +1,3 @@
-## General Info
-This is a simple Responsive Website made using HTML & CSS
-
 # Responsive Website
 
 ## 📝 Description
@@ -42,4 +39,3 @@ cd <project-folder-name>
 Since this is a front-end-only website, no additional setup is required! Simply:
 - Option 1: Open index.html directly in your browser.
 - Option 2: Use the built-in VS Code Live Server (install the Live Server extension and click "Go Live").
-  
